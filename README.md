@@ -4,6 +4,10 @@
 
 <br/>
 
+> 🚧 **Still in the ideation phase.**
+
+# How it works
+
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"fontFamily":"Inter, ui-sans-serif, system-ui","fontSize":"20px","lineColor":"#7c3aed"},"flowchart":{"nodeSpacing":100,"rankSpacing":160,"padding":30,"curve":"basis"}}}%%
 flowchart LR
@@ -17,3 +21,5 @@ flowchart LR
     class A nb
     class B py
 ```
+
+<br/>
